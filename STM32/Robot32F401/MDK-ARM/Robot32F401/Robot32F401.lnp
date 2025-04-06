@@ -1,0 +1,27 @@
+--cpu=Cortex-M4.fp.sp
+"robot32f401\startup_stm32f401xe.o"
+"robot32f401\pwmenginecontrol.o"
+"robot32f401\main.o"
+"robot32f401\stm32f4xx_it.o"
+"robot32f401\stm32f4xx_hal_msp.o"
+"robot32f401\stm32f4xx_hal_tim.o"
+"robot32f401\stm32f4xx_hal_tim_ex.o"
+"robot32f401\stm32f4xx_hal_rcc.o"
+"robot32f401\stm32f4xx_hal_rcc_ex.o"
+"robot32f401\stm32f4xx_hal_flash.o"
+"robot32f401\stm32f4xx_hal_flash_ex.o"
+"robot32f401\stm32f4xx_hal_flash_ramfunc.o"
+"robot32f401\stm32f4xx_hal_gpio.o"
+"robot32f401\stm32f4xx_hal_dma_ex.o"
+"robot32f401\stm32f4xx_hal_dma.o"
+"robot32f401\stm32f4xx_hal_pwr.o"
+"robot32f401\stm32f4xx_hal_pwr_ex.o"
+"robot32f401\stm32f4xx_hal_cortex.o"
+"robot32f401\stm32f4xx_hal.o"
+"robot32f401\stm32f4xx_hal_exti.o"
+"robot32f401\stm32f4xx_hal_uart.o"
+"robot32f401\system_stm32f4xx.o"
+--strict --scatter "Robot32F401\Robot32F401.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Robot32F401.map" -o Robot32F401\Robot32F401.axf

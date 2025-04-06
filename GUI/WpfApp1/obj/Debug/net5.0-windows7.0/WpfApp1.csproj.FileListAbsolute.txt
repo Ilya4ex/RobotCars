@@ -1,0 +1,7 @@
+E:\Work\CS\MyApp\Git\MyRobot\Robot\WpfApp1\obj\Debug\net5.0-windows7.0\WpfApp1.csproj.AssemblyReference.cache
+E:\Work\CS\MyApp\Git\MyRobot\Robot\WpfApp1\obj\Debug\net5.0-windows7.0\View\ControlView.g.cs
+E:\Work\CS\MyApp\Git\MyRobot\Robot\WpfApp1\obj\Debug\net5.0-windows7.0\View\MainWindow.g.cs
+E:\Work\CS\MyApp\Git\MyRobot\Robot\WpfApp1\obj\Debug\net5.0-windows7.0\View\VideoStreamView.g.cs
+E:\Work\CS\MyApp\Git\MyRobot\Robot\WpfApp1\obj\Debug\net5.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+E:\Work\CS\MyApp\Git\MyRobot\Robot\WpfApp1\obj\Debug\net5.0-windows7.0\WpfApp1_MarkupCompile.cache
+E:\Work\CS\MyApp\Git\MyRobot\Robot\WpfApp1\obj\Debug\net5.0-windows7.0\WpfApp1_MarkupCompile.lref
